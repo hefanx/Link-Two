@@ -1,0 +1,84 @@
+kGIISYCOM1leyCZN
+
+Cloudcone
+185.77.225.46
+root
+a2chhe6815
+
+onem.hefan64.tk
+
+腾讯轻量云
+登录IP：43.134.16.15
+用户名：root
+密码：px2gdNZ1wb
+
+webstack
+
+hugo new site myblog
+
+hugo server -t hugo-Blonde-theme --buildDrafts
+
+
+hugo server -t hugo-theme-universal --buildDrafts
+	
+hugo server -t webstack --buildDrafts
+
+pwx.hefan64.cf
+	
+数据库名：webx_hefan64_tk
+
+用户：webx_hefan64_tk
+
+密码：npdJeA5Cxf2tEsaD
+
+	
+webx.hefan64.tk
+
+数据库名：kdy_hefan64_tk
+
+用户：kdy_hefan64_tk
+
+密码：xZeWzReiNcy5kJbG
+
+
+tar -zxvf cloudreve_3.7.1_linux_amd64.tar.gz
+
+tar -zxvf start.tar.gz -C 
+
+
+cloudreve_3.7.1_linux_amd64.tar.gz
+
+
+https://github.com/cloudreve/Cloudreve/releases/download/3.4.2/cloudreve_3.4.2_linux_amd64.tar.gz
+
+https://github.com/cloudreve/Cloudreve/releases/download/3.7.1/cloudreve_3.7.1_linux_amd64.tar.gz
+
+https://github.com/cloudreve/Cloudreve/releases/download/3.7.1/cloudreve_3.7.1_linux_amd64.tar.gz
+
+-zxvf thHBjDcq_cloudreve_3.3.2_linux_amd64.tar.gz
+
+tar -zxvf cloudreve_3.7.1_linux_amd64.tar.gz -C /www/wwwroot/cloudreve.hefan64.tk/cloudreve
+
+
+alist.hefan64.tk
+
+/www/wwwroot/alist.hefan64.tk
+
+Alist 安装成功！
+/www/wwwroot/cloudreve.hefan64.tk/
+访问地址：http://YOUR_IP:5244/
+
+username: admin
+password: qEXjcZQh 
+配置文件路径：/www/wwwroot/alist.hefan64.tk/alist/data/config.json
+$查看管理员信息，请执行
+cd /www/wwwroot/alist.hefan64.tk/alist
+./alist admin
+
+查看状态：systemctl status alist
+启动服务：systemctl start alist
+重启服务：systemctl restart alist
+停止服务：systemctl stop alist
+
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s install http://43.134.16.15:5244/
+curl -fsSL "https://alist.nn.ci/v3.sh" | bash -s update http://43.134.16.15:5244/
